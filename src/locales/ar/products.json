@@ -1,0 +1,37 @@
+{
+  "showingProducts": "عرض {{current}} من أصل {{total}} منتج",
+
+  "title": "ترتيب حسب التقييم",
+  "rating.up": "وأعلى",
+ 
+  "previous": "السابق",
+  "text": "التالي",
+  "search_placeholder": "ابحث...",
+  "reset_filters": "إعادة تعيين جميع الفلاتر",
+  "no_products_title": "لا توجد منتجات",
+  "no_products_message": "لم نتمكن من العثور على أي منتجات تطابق احتياجاتك. حاول تعديل معايير البحث.",
+  "categories.title": "الفئات",
+    "categories.unnamed": "فئة غير مسماة",
+    "categories.more": "{{count}} فئة إضافية",
+    "categories.none": "لا توجد فئات متاحة",
+    "colors.title": "اللون",
+    "colors.more": "{{count}} لون إضافي",
+    "price.title": "السعر",
+    "price.range": "السعر من ${{min}} إلى ${{max}}",
+    "price.button": "تصفية",
+    "Products Filters":"تصفية المنتجات",
+    "outOfStock":"المنتج غير متوفر حالياً",
+    "loginRequired":"يجب تسجيل الدخول أولاً لإضافة المنتجات للسلة",
+    "removedFromWishlist":"تم إزالة المنتج من المفضلة",
+    "addedToWishlist":"تم إضافة المنتج إلى المفضلة",
+    "errorTogglingWishlist":"حدث خطأ أثناء تعديل المفضلة",
+    "errorAddingToCart":"حدث خطأ أثناء إضافة المنتج إلى السلة",
+    "error":"حدث خطأ",
+    "errorLoadingProducts":"حدث خطأ أثناء تحميل المنتجات",
+    "addedToCart":"تم إضافة المنتج إلى السلة",
+    "errorRemovingFromCart":"حدث خطأ أثناء إزالة المنتج من السلة",
+   "relatedProductsByTag": "منتجات ذات صلة :",
+  "noProductsFound": "لم يتم العثور على منتجات",
+    "loading":"تحميل"
+
+}
