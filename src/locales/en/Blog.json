@@ -9,7 +9,7 @@
   "categories": "Categories",
   "paginationPrev": "Previous",
   "paginationNext": "Next",
-   "blogPost": {
+  "blogPost": {
     "likedBy": "Liked by",
     "defaultTitle": "New modern sofa is here",
     "defaultContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
@@ -25,4 +25,3 @@
     "defaultRecentTitle": "Untitled Post"
   }
 }
-
